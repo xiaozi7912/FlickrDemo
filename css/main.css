@@ -1,0 +1,14 @@
+div{
+	margin-bottom:10px;
+}
+#photoList{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+#photoList li{
+	display:inline;
+}
+#photoList li img{
+	width:350px;
+}
